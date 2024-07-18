@@ -3,5 +3,5 @@ This is a rust timer library. this acts as a replacement for Python Datetime.now
 to use it, you need to install the following:
 
 ```
-pip install rpy_helper
+pip install https://github.com/SujithChristopher/rpy_helper/archive/refs/tags/master.tar.gz
 ```
