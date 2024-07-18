@@ -1,6 +1,6 @@
-This is a rust timer library. this acts as a replacement for Python Datetime.now() and similar functions.
+This is a Rust timer library. It acts as a replacement for Python's `time.time()` and `datetime.now()` and similar functions.
 
-to use it, you need to install the following:
+To use it, you need to install the following:
 
 ```
 pip install https://github.com/SujithChristopher/rpy_helper/archive/refs/tags/master.tar.gz
